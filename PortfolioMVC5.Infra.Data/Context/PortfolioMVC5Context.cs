@@ -1,4 +1,5 @@
 ﻿using PortfolioMVC5.Domain.Entities;
+using PortfolioMVC5.Infra.Data.EntityConfig;
 using System;
 using System.Collections.Generic;
 using System.Data.Entity;
@@ -36,6 +37,9 @@ namespace PortfolioMVC5.Infra.Data.Context
 
             modelBuilder.Properties<string>()
                 .Configure(p => p.HasMaxLength(100));
+
+            modelBuilder.Configurations.Add(new ClienteConfig());
+            modelBuilder.Configurations.Add(new EnderecoConfig());
 
             base.OnModelCreating(modelBuilder);
         }
