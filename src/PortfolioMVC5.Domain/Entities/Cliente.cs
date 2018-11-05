@@ -19,8 +19,8 @@ namespace PortfolioMVC5.Domain.Entities
         public string Nome { get; set; }
         public string Email { get; set; }
         public string CPF { get; set; }
-        public string DataNascimento { get; set; }
-        public string DataCadastro { get; set; }
+        public DateTime DataNascimento { get; set; }
+        public DateTime DataCadastro { get; set; }
         public string Ativo { get; set; }
         public virtual ICollection<Endereco> Enderecos { get; set; }
     }
