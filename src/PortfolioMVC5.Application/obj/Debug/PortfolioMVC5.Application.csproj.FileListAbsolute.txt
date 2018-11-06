@@ -1,0 +1,13 @@
+C:\Users\David\Documents\Portfolio\PortfolioMVC5\src\PortfolioMVC5.Application\obj\Debug\PortfolioMVC5.Application.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\Portfolio\PortfolioMVC5\src\PortfolioMVC5.Application\bin\Debug\PortfolioMVC5.Application.dll
+C:\Users\David\Documents\Portfolio\PortfolioMVC5\src\PortfolioMVC5.Application\bin\Debug\PortfolioMVC5.Application.pdb
+C:\Users\David\Documents\Portfolio\PortfolioMVC5\src\PortfolioMVC5.Application\bin\Debug\AutoMapper.dll
+C:\Users\David\Documents\Portfolio\PortfolioMVC5\src\PortfolioMVC5.Application\bin\Debug\PortfolioMVC5.Domain.dll
+C:\Users\David\Documents\Portfolio\PortfolioMVC5\src\PortfolioMVC5.Application\bin\Debug\PortfolioMVC5.Infra.Data.dll
+C:\Users\David\Documents\Portfolio\PortfolioMVC5\src\PortfolioMVC5.Application\bin\Debug\EntityFramework.dll
+C:\Users\David\Documents\Portfolio\PortfolioMVC5\src\PortfolioMVC5.Application\bin\Debug\PortfolioMVC5.Infra.Data.pdb
+C:\Users\David\Documents\Portfolio\PortfolioMVC5\src\PortfolioMVC5.Application\bin\Debug\PortfolioMVC5.Domain.pdb
+C:\Users\David\Documents\Portfolio\PortfolioMVC5\src\PortfolioMVC5.Application\bin\Debug\AutoMapper.xml
+C:\Users\David\Documents\Portfolio\PortfolioMVC5\src\PortfolioMVC5.Application\bin\Debug\EntityFramework.xml
+C:\Users\David\Documents\Portfolio\PortfolioMVC5\src\PortfolioMVC5.Application\obj\Debug\PortfolioMVC5.Application.dll
+C:\Users\David\Documents\Portfolio\PortfolioMVC5\src\PortfolioMVC5.Application\obj\Debug\PortfolioMVC5.Application.pdb

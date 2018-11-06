@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PortfolioMVC5.Domain", "src
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PortfolioMVC5.Infra.Data", "PortfolioMVC5.Infra.Data\PortfolioMVC5.Infra.Data.csproj", "{435413C4-FDAC-49DA-AA2E-74053DA02533}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PortfolioMVC5.Application", "src\PortfolioMVC5.Application\PortfolioMVC5.Application.csproj", "{82EF4B4C-0F56-4D26-A6ED-6EEA3C15DCD4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +43,10 @@ Global
 		{435413C4-FDAC-49DA-AA2E-74053DA02533}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{435413C4-FDAC-49DA-AA2E-74053DA02533}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{435413C4-FDAC-49DA-AA2E-74053DA02533}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82EF4B4C-0F56-4D26-A6ED-6EEA3C15DCD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82EF4B4C-0F56-4D26-A6ED-6EEA3C15DCD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82EF4B4C-0F56-4D26-A6ED-6EEA3C15DCD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82EF4B4C-0F56-4D26-A6ED-6EEA3C15DCD4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -51,5 +57,6 @@ Global
 		{9A494087-101B-42D8-95E6-4A5A0FC9BB74} = {F1B37595-8407-4F20-8186-E077007E3E9D}
 		{FF78C0B3-F51D-43A7-BF9E-EB06B14DA6F9} = {22F5670E-379D-4B56-8679-0AA9312556DC}
 		{435413C4-FDAC-49DA-AA2E-74053DA02533} = {0CF4DB2B-9BB8-44F3-85AD-48BB8AF68FBF}
+		{82EF4B4C-0F56-4D26-A6ED-6EEA3C15DCD4} = {9A29ADF9-D8F0-45DF-952F-3DE64045B1B1}
 	EndGlobalSection
 EndGlobal

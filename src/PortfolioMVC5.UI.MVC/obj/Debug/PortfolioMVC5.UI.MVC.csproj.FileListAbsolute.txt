@@ -135,3 +135,11 @@ C:\Users\David\Documents\Portfolio\PortfolioMVC5\src\PortfolioMVC5.UI.MVC\bin\Mi
 C:\Users\David\Documents\Portfolio\PortfolioMVC5\src\PortfolioMVC5.UI.MVC\obj\Debug\PortfolioMVC5.UI.MVC.csprojResolveAssemblyReference.cache
 C:\Users\David\Documents\Portfolio\PortfolioMVC5\src\PortfolioMVC5.UI.MVC\obj\Debug\PortfolioMVC5.UI.MVC.dll
 C:\Users\David\Documents\Portfolio\PortfolioMVC5\src\PortfolioMVC5.UI.MVC\obj\Debug\PortfolioMVC5.UI.MVC.pdb
+C:\Users\David\Documents\Portfolio\PortfolioMVC5\src\PortfolioMVC5.UI.MVC\bin\PortfolioMVC5.Application.dll
+C:\Users\David\Documents\Portfolio\PortfolioMVC5\src\PortfolioMVC5.UI.MVC\bin\PortfolioMVC5.Infra.Data.dll
+C:\Users\David\Documents\Portfolio\PortfolioMVC5\src\PortfolioMVC5.UI.MVC\bin\PortfolioMVC5.Domain.dll
+C:\Users\David\Documents\Portfolio\PortfolioMVC5\src\PortfolioMVC5.UI.MVC\bin\AutoMapper.dll
+C:\Users\David\Documents\Portfolio\PortfolioMVC5\src\PortfolioMVC5.UI.MVC\bin\PortfolioMVC5.Application.pdb
+C:\Users\David\Documents\Portfolio\PortfolioMVC5\src\PortfolioMVC5.UI.MVC\bin\PortfolioMVC5.Infra.Data.pdb
+C:\Users\David\Documents\Portfolio\PortfolioMVC5\src\PortfolioMVC5.UI.MVC\bin\PortfolioMVC5.Domain.pdb
+C:\Users\David\Documents\Portfolio\PortfolioMVC5\src\PortfolioMVC5.UI.MVC\bin\AutoMapper.xml

@@ -6,4 +6,3 @@ C:\Users\David\Documents\Portfolio\PortfolioMVC5\src\PortfolioMVC5.Domain\bin\De
 C:\Users\David\Documents\Portfolio\PortfolioMVC5\src\PortfolioMVC5.Domain\bin\Debug\PortfolioMVC5.Domain.pdb
 C:\Users\David\Documents\Portfolio\PortfolioMVC5\src\PortfolioMVC5.Domain\obj\Debug\PortfolioMVC5.Domain.dll
 C:\Users\David\Documents\Portfolio\PortfolioMVC5\src\PortfolioMVC5.Domain\obj\Debug\PortfolioMVC5.Domain.pdb
-C:\Users\David\Documents\Portfolio\PortfolioMVC5\src\PortfolioMVC5.Domain\obj\Debug\PortfolioMVC5.Domain.csprojResolveAssemblyReference.cache
