@@ -32,16 +32,16 @@ Projeto de Portfolio utilizando Asp.Net MVC 5 com DDD desenvolvido em Code First
 # Libs e configurações das camadas
 Application
 
--Install-Package Automapper -Version 4.0.4
+- Install-Package Automapper -Version 4.0.4
 Data
 
--Install-Package entityframework
+- Install-Package entityframework
 
--Enable-Migrations
+- Enable-Migrations
 
--Update-Database -Script
+- Update-Database -Script
 
--Update-Database -Verbose
+- Update-Database -Verbose
 
 
 
