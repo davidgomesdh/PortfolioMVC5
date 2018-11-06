@@ -17,9 +17,30 @@ Projeto de Portfolio utilizando Asp.Net MVC 5 com DDD desenvolvido em Code First
 - Data
 
 
-Tecnologias usadas:
+# Tecnologias usadas:
 - Asp.net MVC 5
 - DDD
+- Entity Framework
+- FluentAPI
+- Padrão Repository
+- AutoMapper
+
+# Libs e configurações das camadas
+- Application
+
+Install-Package Automapper -Version 4.0.4
+- Data
+
+Install-Package entityframework
+
+Enable-Migrations
+
+Update-Database -Script
+
+Update-Database -Verbose
+
+
+
 
 
 
