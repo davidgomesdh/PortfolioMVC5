@@ -40,22 +40,23 @@ namespace PortfolioMVC5.Application
 
         public void Dispose()
         {
-            throw new NotImplementedException();
+            _clienteRepository.Dispose();
+            GC.SuppressFinalize(this);
         }
 
         public ClienteViewModel ObterPorCpf(string cpf)
         {
-            throw new NotImplementedException();
+            return Mapper.Map<Cliente, ClienteViewModel>(_clienteRepository.ObterPorCpf(cpf));
         }
 
         public ClienteViewModel ObterPorEmail(string email)
         {
-            throw new NotImplementedException();
+            return Mapper.Map<Cliente, ClienteViewModel>(_clienteRepository.ObterPorEmail(email));
         }
 
         public ClienteViewModel ObterPorId(Guid id)
         {
-            throw new NotImplementedException();
+            return Mapper.Map<Cliente, ClienteViewModel>(_clienteRepository.ObterPorId(id));
         }
 
         public IEnumerable<ClienteViewModel> ObterTodos()
@@ -65,7 +66,7 @@ namespace PortfolioMVC5.Application
 
         public void Remover(Guid id)
         {
-            throw new NotImplementedException();
+            _clienteRepository.Remover(id);
         }
     }
 }

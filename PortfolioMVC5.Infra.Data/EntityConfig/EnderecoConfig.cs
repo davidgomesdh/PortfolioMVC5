@@ -31,7 +31,6 @@ namespace PortfolioMVC5.Infra.Data.EntityConfig
                  .HasMaxLength(8);
 
             Property(c => c.Complemento)
-                 .IsRequired()
                  .HasMaxLength(100);
 
             HasRequired(e => e.Cliente)
