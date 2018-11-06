@@ -46,7 +46,7 @@ Data
 
 CrossCutting.MvcFilters
 
-- Install-Package Microsoft.AspNet.Mvc
+- Install-Package Microsoft.AspNet.Mvc -Version 5.2.3
 
 
 
