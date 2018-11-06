@@ -33,6 +33,7 @@ Projeto de Portfolio utilizando Asp.Net MVC 5 com DDD desenvolvido em Code First
 Application
 
 - Install-Package Automapper -Version 4.0.4
+
 Data
 
 - Install-Package entityframework
