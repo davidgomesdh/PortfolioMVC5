@@ -30,7 +30,15 @@ namespace PortfolioMVC5.Infra.Data.EntityConfig
                 .HasMaxLength(11)
                 .IsFixedLength()
                 .HasColumnAnnotation("Index", new IndexAnnotation(new IndexAttribute() { IsUnique = true }));
-               
+
+            Property(c => c.DataNascimento)
+                .IsRequired();
+
+            Property(c => c.Ativo)
+               .IsRequired();
+
+            ToTable("Clientes");
+
         }
     }
 }
