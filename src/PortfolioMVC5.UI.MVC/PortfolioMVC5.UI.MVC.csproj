@@ -258,6 +258,10 @@
       <Project>{82EF4B4C-0F56-4D26-A6ED-6EEA3C15DCD4}</Project>
       <Name>PortfolioMVC5.Application</Name>
     </ProjectReference>
+    <ProjectReference Include="..\PortfolioMVC5.Data.CrossCutting.MvcFilters\PortfolioMVC5.Data.CrossCutting.MvcFilters.csproj">
+      <Project>{EDDE73E6-4D20-4266-91F6-93EB50421AE5}</Project>
+      <Name>PortfolioMVC5.Data.CrossCutting.MvcFilters</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

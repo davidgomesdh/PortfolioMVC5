@@ -143,3 +143,5 @@ C:\Users\David\Documents\Portfolio\PortfolioMVC5\src\PortfolioMVC5.UI.MVC\bin\Po
 C:\Users\David\Documents\Portfolio\PortfolioMVC5\src\PortfolioMVC5.UI.MVC\bin\PortfolioMVC5.Infra.Data.pdb
 C:\Users\David\Documents\Portfolio\PortfolioMVC5\src\PortfolioMVC5.UI.MVC\bin\PortfolioMVC5.Domain.pdb
 C:\Users\David\Documents\Portfolio\PortfolioMVC5\src\PortfolioMVC5.UI.MVC\bin\AutoMapper.xml
+C:\Users\David\Documents\Portfolio\PortfolioMVC5\src\PortfolioMVC5.UI.MVC\bin\PortfolioMVC5.Data.CrossCutting.MvcFilters.dll
+C:\Users\David\Documents\Portfolio\PortfolioMVC5\src\PortfolioMVC5.UI.MVC\bin\PortfolioMVC5.Data.CrossCutting.MvcFilters.pdb
